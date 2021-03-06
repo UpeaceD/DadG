@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 今天搞不搞两把游戏啊，阿达？
 
 You can use the [editor on GitHub](https://github.com/UpeaceD/DadG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
